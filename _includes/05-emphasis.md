@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Attributes:
+strong in **windows** diagnostics, **Linux** coding, *Arduino*, _C#_
+And many other coding languages, and other device types. 
